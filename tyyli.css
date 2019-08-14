@@ -1,0 +1,182 @@
+body		{
+			background-image:linear-gradient(to bottom left, #cc9966, #ffffcc );
+			background-repeat:no-repeat;
+			background-attachment: fixed;
+			color:#663333;
+			font-family:Georgia;
+			font-size:25px;
+			text-align:center
+			}
+			
+.profiili	{
+			float:left;
+			}
+select, option 
+			{
+			font-size:30px;
+			color:#990099;
+			}
+			
+#uutiset	{
+			width:30%;
+			border: 5px double #663366;
+			float:left;
+			margin-left:260px;
+			}
+
+.logo		{
+			margin-bottom:20px;
+			font-size:100px;
+			font-weight:bold;
+			color:#663300;
+			float:right;
+			Padding:20px;
+			border:3px dotted #663333;
+			opacity:0.4;
+			float:right;
+			}
+.echo	    {
+			position:absolute;
+			top:10px;
+			left:20px;
+			font-size:40px;
+			font-weight:bold;
+			}
+			
+.sisalto	{
+			padding:30px;
+			margin-top:20px;
+			}
+			
+h1			{
+			font-size:40px;
+			font-weight:bold;
+			}
+
+.vasenreuna	{
+			background: rgba(255, 255, 255, 0.2);
+			border: 5px double #663366;
+			width:25%;
+			float:left;
+			padding:10px;
+			clear:left;
+			margin-top:20px;
+			
+
+			}
+
+			
+#kirjautuminen			
+			{
+			border: 5px double #663366;
+			background-image:url('divikuva.jpg');
+			background-repeat:no-repeat;
+			width:25%;
+			float:left;
+			}
+
+			
+#kuva		{
+			float:left;
+			margin-left:50px;
+			opacity:0.6;
+			}
+			
+.oikeareuna	{
+			background: rgba(255, 255, 255, 0.2);
+			border: 5px double #663366;
+			width:20%;
+			padding:10px;
+			float:right;
+			margin-top:20px;
+			}
+			
+#kuva2		{
+			float:left;
+			margin-left:20px;
+			}
+			
+.pikkudivi {
+			background: rgba(255, 255, 255, 0.2);
+			margin:20px;
+			background-color:#ffcc99;
+			border: 2px double #663366;
+			}
+			
+
+#muokkaus	{
+			width:55%;
+			float:left;
+			}
+
+#tietodivi		
+			{
+			background: rgba(255, 255, 255, 0.2);
+			width:70%;
+			border: 5px double #663366;
+			padding:30px;
+			margin-top:20px;
+			}
+			
+#yhteytta	{
+			background: rgba(255, 255, 255, 0.3);
+			margin-top:10px;
+			font-size:20px;
+			width:72%;
+			padding:20px;
+			border: 1px solid #663366;
+			}
+			
+a			{
+			text-decoration:none;
+			color:#993366;
+			font-weight:bold;
+			}
+			
+a:hover		{
+			color:#ff9900;
+			}
+		
+legend		{
+			font-size:25px;
+			font-weight:bold;
+			}
+			
+#lomake		{
+			background: rgba(255, 255, 255, 0.3);
+			margin-top:200px;
+			width:50%;
+			float:left;
+			}
+			
+#heppa		{
+
+			width:30%;
+			float:left;
+			}
+
+
+			
+#keskustelu{
+			width:45%;
+			font-weight:bold;
+			padding:20px;
+			float:left;
+			
+			}
+			
+
+			
+
+			
+
+			
+
+			
+
+
+			
+		
+
+
+			
